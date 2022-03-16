@@ -7,6 +7,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\ys\Desktop\국비 지원 교육\웹서비스기바 빅데이터분석(2022_02)\03_JDBC\SOURCE"/>
 			<item value="C:\Users\ys\Desktop\국비 지원 교육\웹서비스기바 빅데이터분석(2022_02)\02_JAVA\SOURCE"/>
 			<item value="C:\Users\ys\Desktop\국비 지원 교육\웹서비스기바 빅데이터분석(2022_02)\02_JAVA\SOURCE\새 폴더"/>
 			<item value="C:\Users\ys\Desktop\국비 지원 교육\웹서비스기바 빅데이터분석(2022_02)\02_JAVA\SOURCE\새 폴더\06Day2_pacakage_chul"/>
@@ -26,7 +27,6 @@
 			<item value="C:\Users\ys\Desktop\국비 지원 교육\웹서비스기바 빅데이터분석(2022_02)\02_JAVA\SOURCE\05Day2_CLASS_CHUL"/>
 			<item value="C:\Users\ys\Desktop\국비 지원 교육\웹서비스기바 빅데이터분석(2022_02)\02_JAVA\SOURCE\05Day1_CLASS_CHUL"/>
 			<item value="C:\Users\ys\Desktop\국비 지원 교육\웹서비스기바 빅데이터분석(2022_02)\02_JAVA\SOURCE\04Day_Array_chul"/>
-			<item value="C:\Users\ys\Desktop\국비 지원 교육\웹서비스기바 빅데이터분석(2022_02)\02_JAVA\SOURCE\03Day2"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
